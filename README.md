@@ -1,5 +1,5 @@
 # house_in_python
-As an instructor for [Code for Fun](https://www.codeforfun.com/). I taught my class the various steps to build a drawn house in python. <br>
+As an instructor for [Code for Fun](https://www.codeforfun.com/). I taught my class the various steps to drawn a house in python. <br>
 In this lesson, we implemented an XY graph to draw our house, used loops to simplify our code, applied RGB color mixing to file in our house, and applied the random library to make the roof of the house have different shades of red to make it look more like a house.
 
 
